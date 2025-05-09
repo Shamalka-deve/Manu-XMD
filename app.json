@@ -9,7 +9,7 @@
         "SESSION_ID": {
             "description": "Manu-MD&JW8mXTgC#nv-4vBCDQZ8xl4ezNnjYG61U0ZvuE-sZaZkoEYDh03E",
             "required": true,
-            "value": "Manu-MD&JW8mXTgC#nv-4vBCDQZ8xl4ezNnjYG61U0ZvuE-sZaZkoEYDh03E"
+            "value": ""
         },
         "TYPE": {
             "description": "if you need buttons put 'button' if you need nonbutton ( number reply ) put 'nonbutton' || බටන් ඕනි නම් 'button' දාන්න number reply ඕනි නම් nonbutton දාන්න...😌❤",
